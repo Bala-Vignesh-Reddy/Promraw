@@ -1,0 +1,6 @@
+inference
+opencv-python-headless==4.5.5.62
+numpy==1.21.5
+torch
+psycopg2-binary
+flask
