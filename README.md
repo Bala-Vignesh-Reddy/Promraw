@@ -14,13 +14,13 @@ This Flask web application allows users to draw an image based on a given prompt
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/mayuras7685/Starknet-submission.git
+    git clone https://github.com/Bala-Vignesh-Reddy/Promraw.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd MVP
+    cd Promraw
     ```
 
 3. Install the required dependencies using pip:
